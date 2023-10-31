@@ -1,0 +1,20 @@
+Movie Recomendation System : Aspects
+
+
+Movie Recommendation based on three aspects that are:  popularity based, content based, collaborative filtering. Here are the following aspects with examples.
+
+Popularity-based movie recommendation systems** recommend movies to users based on their popularity among other users. This is the simplest type of recommendation system, and it is often used as a baseline for more complex systems. Popularity-based systems can be effective at recommending popular movies that users are likely to enjoy, but they can also be less effective at recommending more obscure or niche movies.
+
+**Content-based movie recommendation systems** recommend movies to users based on their similarity to movies that the user has previously rated or watched. Content-based systems consider factors such as the movie's genre, cast, crew, and plot. This type of system is more effective at recommending movies that are similar to the user's past preferences, but it can be less effective at recommending movies that the user has never seen before.
+
+**Collaborative filtering movie recommendation systems** recommend movies to users based on the ratings and preferences of other users who have similar tastes. Collaborative filtering systems build a model of user preferences by analyzing the ratings that users have given to movies in the past. The system then uses this model to recommend movies to users based on the ratings of similar users. Collaborative filtering systems are often more effective at recommending movies that the user has never seen before than either popularity-based or content-based systems.
+
+Here are some examples of how each of these types of recommendation systems might work:
+
+**Popularity-based:** If a user is looking for a popular movie to watch, the system might recommend movies that are currently trending or that have been highly rated by other users. For example, the system might recommend the latest Marvel Studios movie or a movie that has won multiple Academy Awards.
+
+**Content-based:** If a user has enjoyed watching action movies in the past, the system might recommend other action movies that are similar. For example, if the user has watched and enjoyed the movies "Mad Max: Fury Road" and "Mission: Impossible - Fallout", the system might recommend other action movies such as "John Wick" and "The Raid".
+
+**Collaborative filtering:** If a user has similar tastes to other users who have enjoyed watching romantic comedies, the system might recommend romantic comedies to that user. For example, if the user has given high ratings to movies such as "When Harry Met Sally" and "The Princess Bride", the system might recommend other romantic comedies such as "Sleepless in Seattle" and "Crazy Rich Asians".
+
+In practice, many recommendation systems use a combination of these three approaches to achieve better results. For example, a system might start by recommending popular movies to a new user, and then switch to recommending content-based or collaborative filtering recommendations as the system learns more about the user's preferences.
